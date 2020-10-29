@@ -1,8 +1,8 @@
 <div align="center">
  
-  ![GIT Header Readme](imagens/header.jpg)
+  ![GIT Header Readme](images/header.jpg)
 
-  ### **Repositório criado para documentação de estudos em Git
+  ### **Repositório criado para documentação de estudos em Git**
 </div>
 <br><br>
 
