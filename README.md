@@ -8,7 +8,8 @@
 
 ## Documentação
 
-+ https://git-scm.com/doc
++ Documentation (https://git-scm.com/doc)
++ Reference (https://git-scm.com/docs)
 
 
 
