@@ -13,5 +13,8 @@
 + Resources to learn Git (https://try.github.io/)
 + Visualizing Git (https://git-school.github.io/visualizing-git/)
 
+## Guide 
+
++ [git - the simple guide](https://rogerdudler.github.io/git-guide/)
 
 
