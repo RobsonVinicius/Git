@@ -17,4 +17,9 @@
 
 + [git - the simple guide](https://rogerdudler.github.io/git-guide/)
 
+## Posts
+
++ [O que é Git e Github](https://www.alura.com.br/artigos/o-que-e-git-github?utm_source=gnarus&utm_medium=timeline)
+
+
 
