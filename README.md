@@ -35,4 +35,4 @@
 + [Git e Github para Sobrevivência Ep. #01: Como o Git funciona? | **Alura Cursos Online**](https://www.youtube.com/watch?v=BAmvmaKQklQ&ab_channel=AluraCursosOnline)
 + [Git e Github para Sobrevivência Ep. #02: Como o merge funciona? | **Alura Cursos Online**](https://www.youtube.com/watch?v=t_UND1if4eI&ab_channel=AluraCursosOnline)
 + [O que é Git? O que é versionamento? - Curso de Git e GitHub | **Curso em Vídeo - Gustavo Guanabara**](https://www.youtube.com/watch?v=xEKo29OWILE&ab_channel=CursoemV%C3%ADdeo)
-+ [Git and GitHub for Beginners - Crash Course | **FreeCodeCampo**](https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org)
++ [Git and GitHub for Beginners - Crash Course | **FreeCodeCamp**](https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org)
