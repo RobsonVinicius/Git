@@ -29,5 +29,5 @@
 
 ## 🎞️ Vídeos
 
-+ [Git e Github para Sobrevivência #01: Como o Git funciona?](https://www.youtube.com/watch?v=BAmvmaKQklQ&ab_channel=AluraCursosOnline)
-+ [Git e Github para Sobrevivência Ep. #02: Como o merge funciona?](https://www.youtube.com/watch?v=t_UND1if4eI&ab_channel=AluraCursosOnline)
++ [Git e Github para Sobrevivência Ep. #01: Como o Git funciona? | Alura Cursos Online](https://www.youtube.com/watch?v=BAmvmaKQklQ&ab_channel=AluraCursosOnline)
++ [Git e Github para Sobrevivência Ep. #02: Como o merge funciona? | Alura Cursos Online](https://www.youtube.com/watch?v=t_UND1if4eI&ab_channel=AluraCursosOnline)
