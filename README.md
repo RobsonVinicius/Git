@@ -30,6 +30,7 @@
 ## 🎞️ Vídeos
 
 + [Como usar Git e Github na prática: Guia para iniciantes | Mayk Brito - **Rocketseat**](https://www.youtube.com/watch?v=2alg7MQ6_sI&ab_channel=Rocketseat)
++ [Git e Github para iniciantes | **Loiane Groner**](https://www.youtube.com/watch?v=UMhskLXJuq4&ab_channel=LoianeGroner)
 + [O Git que será cobrado no seu 1º dia de trabalho - **DevMedia**](https://www.youtube.com/watch?v=CGTsIz5t0eY&ab_channel=DevMedia)
 + [Git: ENTENDENDO de vez como funciona do MELHOR E MAIS VISUAL jeito possível | **Mario Souto - Alura, Caelum, Nubank**](https://www.youtube.com/watch?v=4-tfJ-ZyA0Q&ab_channel=DevSoutinho)
 + [Git e Github para Sobrevivência Ep. #01: Como o Git funciona? | **Alura Cursos Online**](https://www.youtube.com/watch?v=BAmvmaKQklQ&ab_channel=AluraCursosOnline)
@@ -38,3 +39,5 @@
 + [Git and GitHub for Beginners - Crash Course | **FreeCodeCamp**](https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org)
 + [Git & GitHub Crash Course For Beginners | **Traversy Media**](https://www.youtube.com/watch?v=SWYqp7iY_Tc&ab_channel=TraversyMedia)
 + [Entendendo GIT | (não é um tutorial!) | **Fabio Akita**](https://www.youtube.com/watch?v=6Czd1Yetaac&ab_channel=FabioAkita)
+
+
