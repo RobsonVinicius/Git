@@ -29,9 +29,9 @@
 
 ## 🎞️ Vídeos
 
-+ [Git e Github para Sobrevivência Ep. #01: Como o Git funciona? | Alura Cursos Online](https://www.youtube.com/watch?v=BAmvmaKQklQ&ab_channel=AluraCursosOnline)
-+ [Git e Github para Sobrevivência Ep. #02: Como o merge funciona? | Alura Cursos Online](https://www.youtube.com/watch?v=t_UND1if4eI&ab_channel=AluraCursosOnline)
-+ [Git: ENTENDENDO de vez como funciona do MELHOR E MAIS VISUAL jeito possível](https://www.youtube.com/watch?v=4-tfJ-ZyA0Q&ab_channel=DevSoutinho)
-+ [Como usar Git e Github na prática: Guia para iniciantes | Mayk Brito - Rocketseat](https://www.youtube.com/watch?v=2alg7MQ6_sI&ab_channel=Rocketseat)
-+ [O Git que será cobrado no seu 1º dia de trabalho - DevMedia](https://www.youtube.com/watch?v=CGTsIz5t0eY&ab_channel=DevMedia)
-
++ [Como usar Git e Github na prática: Guia para iniciantes | Mayk Brito - **Rocketseat**](https://www.youtube.com/watch?v=2alg7MQ6_sI&ab_channel=Rocketseat)
++ [O Git que será cobrado no seu 1º dia de trabalho - **DevMedia**](https://www.youtube.com/watch?v=CGTsIz5t0eY&ab_channel=DevMedia)
++ [Git: ENTENDENDO de vez como funciona do MELHOR E MAIS VISUAL jeito possível | **Mario Souto - Alura, Caelum, Nubank**](https://www.youtube.com/watch?v=4-tfJ-ZyA0Q&ab_channel=DevSoutinho)
++ [Git e Github para Sobrevivência Ep. #01: Como o Git funciona? | **Alura Cursos Online**](https://www.youtube.com/watch?v=BAmvmaKQklQ&ab_channel=AluraCursosOnline)
++ [Git e Github para Sobrevivência Ep. #02: Como o merge funciona? | **Alura Cursos Online**](https://www.youtube.com/watch?v=t_UND1if4eI&ab_channel=AluraCursosOnline)
++ [O que é Git? O que é versionamento? - Curso de Git e GitHub | **Curso em Vídeo - Gustavo Guanabara**](https://www.youtube.com/watch?v=xEKo29OWILE&ab_channel=CursoemV%C3%ADdeo)
