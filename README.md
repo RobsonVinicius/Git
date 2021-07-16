@@ -40,6 +40,7 @@
 + [Git e Github para Sobrevivência Ep. #04: Issues, PullRequests, Templates e features legais do Github | **Alura Cursos Online**](https://www.youtube.com/watch?v=9QB5glgAX2Y)
 + [Git e Github para Sobrevivência Ep. #05: Como editar o último commit feito? | **Alura Cursos Online**](https://www.youtube.com/watch?v=ZJvzFviqtEo)
 + [Git e Github para Sobrevivência Ep. #06: Como apagar um commit? Como reverter um bug na master? | **Alura Cursos Online**](https://www.youtube.com/watch?v=hISBlHMb-0Y)
++ [Git e Github para Sobrevivência Ep. #07: Lidando com problemas de sincronização | **Alura Cursos Online**](https://www.youtube.com/watch?v=CbCn5_4WtP0)
 + [O que é Git? O que é versionamento? - Curso de Git e GitHub | **Curso em Vídeo - Gustavo Guanabara**](https://www.youtube.com/watch?v=xEKo29OWILE&ab_channel=CursoemV%C3%ADdeo)
 + [Git and GitHub for Beginners - Crash Course | **FreeCodeCamp**](https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org)
 + [Git & GitHub Crash Course For Beginners | **Traversy Media**](https://www.youtube.com/watch?v=SWYqp7iY_Tc&ab_channel=TraversyMedia)
