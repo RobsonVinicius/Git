@@ -28,6 +28,12 @@
 
 <br>
 
+## 📚 Courses 
++ [Learn Git - Code Academy](https://www.codecademy.com/learn/learn-git)
++ [Git - Solve Real Problems](https://www.katacoda.com/courses/git)
+
+<br>
+
 ## 🎞️ Vídeos
 
 + [Como usar Git e Github na prática: Guia para iniciantes | Mayk Brito - **Rocketseat**](https://www.youtube.com/watch?v=2alg7MQ6_sI&ab_channel=Rocketseat)
