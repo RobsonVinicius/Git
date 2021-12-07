@@ -3,7 +3,7 @@
 ## Create new branch
 
 ~~~
-git branch newbranch
+git branch branchname
 ~~~
 
 <br>
@@ -11,6 +11,6 @@ git branch newbranch
 ## Switch Branch
 
 ~~~
-git checkout namebranch
+git checkout branchname
 ~~~
 
