@@ -15,9 +15,10 @@
 
 <br>
 
-## 🗺️ Guide 
+## 🗺️ Guides 
 
-+ [git - the simple guide](https://rogerdudler.github.io/git-guide/)
++ [Git - the simple guide](https://rogerdudler.github.io/git-guide/)
++ [Tutoriais e Treinamento do Git - Atlassian](https://www.atlassian.com/br/git/tutorials)
 
 <br>
 
