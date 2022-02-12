@@ -55,4 +55,4 @@
 + [Entendendo GIT | (não é um tutorial!) | **Fabio Akita**](https://www.youtube.com/watch?v=6Czd1Yetaac&ab_channel=FabioAkita)
 + [Git Explained in 100 Seconds | **Fireship**](https://www.youtube.com/watch?v=hwP7WQkmECE&ab_channel=Fireship)
 + [O que é git e github? - Definição e conceitos importantes 1/2 | **Rafaella Ballerini**](https://www.youtube.com/watch?v=DqTITcMq68k)
-
++ [Como usar git e github na prática! desde o primeiro commit até o pull request! 2/2 | **Rafaella Ballerini**](https://www.youtube.com/watch?v=UBAX-13g8OM)
