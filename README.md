@@ -54,5 +54,5 @@
 + [Git & GitHub Crash Course For Beginners | **Traversy Media**](https://www.youtube.com/watch?v=SWYqp7iY_Tc&ab_channel=TraversyMedia)
 + [Entendendo GIT | (não é um tutorial!) | **Fabio Akita**](https://www.youtube.com/watch?v=6Czd1Yetaac&ab_channel=FabioAkita)
 + [Git Explained in 100 Seconds | **Fireship**](https://www.youtube.com/watch?v=hwP7WQkmECE&ab_channel=Fireship)
-
++ [O que é git e github? - Definição e conceitos importantes 1/2 | **Rafaella Ballerini**](https://www.youtube.com/watch?v=DqTITcMq68k)
 
