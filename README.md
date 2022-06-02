@@ -26,6 +26,7 @@
 
 + [O que é Git e Github | **Alura Blog**](https://www.alura.com.br/artigos/o-que-e-git-github?utm_source=gnarus&utm_medium=timeline)
 + [Git & Github: O que é? Por que? Como iniciar? | **Rocketseat**](https://blog.rocketseat.com.br/iniciando-com-git-github/)
++ [Git - Por Engenheira Coelho](https://github.com/engenheiracoelho/engenheiracoelho/blob/master/Git.md)
 
 <br>
 
