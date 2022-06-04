@@ -15,9 +15,10 @@
 
 <br>
 
-## 🗺️ Guide 
+## 🗺️ Guides 
 
-+ [git - the simple guide](https://rogerdudler.github.io/git-guide/)
++ [Git - the simple guide](https://rogerdudler.github.io/git-guide/)
++ [Tutoriais e Treinamento do Git - Atlassian](https://www.atlassian.com/br/git/tutorials)
 
 <br>
 
@@ -25,6 +26,7 @@
 
 + [O que é Git e Github | **Alura Blog**](https://www.alura.com.br/artigos/o-que-e-git-github?utm_source=gnarus&utm_medium=timeline)
 + [Git & Github: O que é? Por que? Como iniciar? | **Rocketseat**](https://blog.rocketseat.com.br/iniciando-com-git-github/)
++ [Git - Por Engenheira Coelho](https://github.com/engenheiracoelho/engenheiracoelho/blob/master/Git.md)
 
 <br>
 
@@ -53,5 +55,5 @@
 + [Git & GitHub Crash Course For Beginners | **Traversy Media**](https://www.youtube.com/watch?v=SWYqp7iY_Tc&ab_channel=TraversyMedia)
 + [Entendendo GIT | (não é um tutorial!) | **Fabio Akita**](https://www.youtube.com/watch?v=6Czd1Yetaac&ab_channel=FabioAkita)
 + [Git Explained in 100 Seconds | **Fireship**](https://www.youtube.com/watch?v=hwP7WQkmECE&ab_channel=Fireship)
-
-
++ [O que é git e github? - Definição e conceitos importantes 1/2 | **Rafaella Ballerini**](https://www.youtube.com/watch?v=DqTITcMq68k)
++ [Como usar git e github na prática! desde o primeiro commit até o pull request! 2/2 | **Rafaella Ballerini**](https://www.youtube.com/watch?v=UBAX-13g8OM)
