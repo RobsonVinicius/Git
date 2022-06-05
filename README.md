@@ -20,6 +20,7 @@
 + [Git - the simple guide](https://rogerdudler.github.io/git-guide/)
 + [Tutoriais e Treinamento do Git - Atlassian](https://www.atlassian.com/br/git/tutorials)
 + [Git Cheat Sheet Education](https://education.github.com/git-cheat-sheet-education.pdf)
++ [Folha de Dicas de Git do Github](https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/)
 
 <br>
 
