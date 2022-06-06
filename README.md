@@ -32,6 +32,12 @@
 
 <br>
 
+## 🚀 Training
+
++ [Learning Git Branching](https://learngitbranching.js.org/)
+
+<br>
+
 ## 📚 Courses 
 + [Learn Git - Code Academy](https://www.codecademy.com/learn/learn-git)
 + [Git - Solve Real Problems](https://www.katacoda.com/courses/git)
