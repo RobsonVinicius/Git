@@ -4,7 +4,7 @@
 git checkout
 ~~~
 
-Exemplo: 
+### Exemplo: 
 
 A versão atual do nosso arquivo o nome "proposta_1.html" é: 
 
