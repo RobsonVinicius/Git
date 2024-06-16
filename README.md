@@ -17,6 +17,7 @@
 
 ## 🗺️ Guides 
 
++ [GitFluence - Find the Git Command You Need Now!](https://gitfluence.com/)
 + [Git - the simple guide](https://rogerdudler.github.io/git-guide/)
 + [Tutoriais e Treinamento do Git - Atlassian](https://www.atlassian.com/br/git/tutorials)
 + [Git Cheat Sheet Education](https://education.github.com/git-cheat-sheet-education.pdf)
