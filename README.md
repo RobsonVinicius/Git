@@ -2,7 +2,7 @@
  
   ![GIT Header Readme](images/header.jpg)
 
-  ### **Repositório criado para documentação de estudos em Git**
+  <!-- ### **Repositório criado para documentação de estudos em Git** -->
 </div>
 <br><br>
 
@@ -12,6 +12,15 @@
 + Reference (https://git-scm.com/docs)
 + Resources to learn Git (https://try.github.io/)
 + Visualizing Git (https://git-school.github.io/visualizing-git/)
+
+<br>
+
+## 📚 Livros
+
+
+| Capa | Livro | Autor | Livro Físico | Versão Kindle | 
+| --- | --- | --- | --- | --- |
+| <img src="https://m.media-amazon.com/images/I/61SWzDjgG5L._SL1000_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Aprendendo Git: Um guia prático e visual para os fundamentos do Git | Anna Skoulikari | [Veja Mais](https://amzn.to/3EW2sVs) | [Veja Mais](https://amzn.to/41hsvOk)|
 
 <br>
 
