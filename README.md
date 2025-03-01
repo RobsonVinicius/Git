@@ -21,6 +21,8 @@
 | Capa | Livro | Autor | Livro Físico | Versão Kindle | 
 | --- | --- | --- | --- | --- |
 | <img src="https://m.media-amazon.com/images/I/61SWzDjgG5L._SL1000_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Aprendendo Git: Um guia prático e visual para os fundamentos do Git | Anna Skoulikari | [Veja Mais](https://amzn.to/3EW2sVs) | [Veja Mais](https://amzn.to/41hsvOk)|
+| <img src="https://m.media-amazon.com/images/I/61AsAsgdzUL._SL1124_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Controlando Versões com Git e GitHub | Alexandre Aquiles | [Veja Mais](https://amzn.to/3XnRb6x) | |
+
 
 <br>
 
